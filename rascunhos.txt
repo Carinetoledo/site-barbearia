@@ -1,0 +1,8 @@
+<head> //informações que quero passar pro meu navegador
+<body> //informações que quero exibir na página
+<header> //cabeçario do nosso conteudo 
+
+Como ajustar a altura do elemento, através da propriedade "height"
+Como ajustar a largura do elemento, através da propriedade "width"
+como ajustar o espaçamento interno do elemento, através da propridade "passind"
+Como ajustar o espaçamento externo do elemento, através da propriedade "margin"
